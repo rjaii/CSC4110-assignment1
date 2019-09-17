@@ -1,6 +1,5 @@
 // Simple C++ program to display "Hello World" 
 //Author: Robert Arnold <gi6195@wayne.edu>
-
 // Header file for input output functions 
 #include<iostream>  
   
